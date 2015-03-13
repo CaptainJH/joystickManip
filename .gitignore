@@ -1,0 +1,13 @@
+*.tlog
+*.pdb
+*.obj
+*.opensdf
+*.mll
+x64/Debug/joystickManip.log
+*.lib
+x64/Debug/joystickManip.lastbuildstate
+x64/Debug/joystickManip.ilk
+x64/Debug/joystickManip.exp
+joystickManip.v11.suo
+*.sdf
+x64/Debug/joystickManip.idb
